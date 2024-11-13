@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "dgSpecHash": "EdRQaMrOSNY=",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Passa\\Downloads\\Alura - S.O.L.I.D\\src\\Alura.Adopet.API\\Alura.Adopet.API.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Serilog (>= 2.12.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Serilog",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Serilog.AspNetCore (>= 7.0.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Serilog.AspNetCore",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Serilog.Sinks.File (>= 5.0.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Serilog.Sinks.File",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.AspNetCore.Mvc.NewtonsoftJson (>= 7.0.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.AspNetCore.Mvc.NewtonsoftJson",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Swashbuckle.AspNetCore.SwaggerUI (>= 6.4.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Swashbuckle.AspNetCore.SwaggerUI",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.EntityFrameworkCore.InMemory (>= 7.0.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.EntityFrameworkCore.InMemory",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Serilog.Sinks.Console (>= 4.1.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Serilog.Sinks.Console",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Microsoft.Extensions.Logging.Console (>= 7.0.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Microsoft.Extensions.Logging.Console",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Swashbuckle.AspNetCore.SwaggerGen (>= 6.4.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Swashbuckle.AspNetCore.SwaggerGen",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Não foi possível resolver 'Swashbuckle.AspNetCore.Swagger (>= 6.4.0)' para 'net7.0'. O PackageSourceMapping está habilitado, as seguintes fontes não foram consideradas: C:\\Program Files\\dotnet\\library-packs, Microsoft Visual Studio Offline Packages, nuget.org.",
+      "libraryId": "Swashbuckle.AspNetCore.Swagger",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}
